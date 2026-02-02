@@ -1,0 +1,1 @@
+const s="/assets/cert1-CTThYWo6.png",t="/assets/cert2-Byj4qL3D.png",e="/assets/cert3-9eJKoPnK.png",n="/assets/Philomathes-CUl4PjDJ.png",c="/assets/SafetyOfficer2-Bi97sj7T.png",o="/assets/fortinet-BK7ATzRo.png",r="/assets/ZendeskCertification-D49K1LSN.jfif",a={cert1:s,cert2:t,cert3:e,philomathes:n,SO2:c,fortinet:o,zendesk:r};export{a as i};
